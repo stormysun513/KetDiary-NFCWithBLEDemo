@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NFCWithBLEDemo</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="disconnected">Disconnected.</string>
+    <string name="connected">Connected.</string>
+    <string name="timeout">Timeout.</string>
+    <string name="completed">Transfer completed.</string>
+</resources>
