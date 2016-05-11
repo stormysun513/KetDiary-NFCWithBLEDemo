@@ -10,6 +10,7 @@
 
 # Java class files
 /**/*.class
+/**/*.jar
 
 # generated files
 bin/
@@ -40,5 +41,3 @@ obj/
 
 # External libraries
 app/libs/
-app/src/main/jniLibs/
-openCVLibrary300/
